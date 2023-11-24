@@ -1,4 +1,4 @@
-const socket = io('https://group-chatt.onrender.com')
+const socket = io('https://biodun-group-chat.onrender.com')
 
 const msgInput = document.querySelector('#message')
 const nameInput = document.querySelector('#name')
